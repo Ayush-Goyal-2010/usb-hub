@@ -1,4 +1,4 @@
-# hacker-card
+# usb-hub
 ![3d_front](https://github.com/Ayush-Goyal-2010/usb-hub/blob/main/assets/3d_front.png)
 > i made a quick 2 usb hub without much help of the tutorial so yays
 
